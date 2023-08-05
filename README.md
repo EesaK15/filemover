@@ -4,10 +4,12 @@ This program automates file management by effortlessly moving files from one dir
 ### Here is a breakdown of the code:
 ```
 import os
+import shutil
 ```
 
  
 In Python, import os grants access to the "Operating System" module, facilitating interaction with the OS and enabling file and directory operations.
+In Python, import shutil allows access to the "Shell Utilities" module, which provides high-level file operations like copying, moving, and deleting files and directories.
 
 #### To list the files in a certain directory:
 ```
