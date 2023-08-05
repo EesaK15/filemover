@@ -1,5 +1,5 @@
 # Automated File Mover
-This program automates file management by effortlessly moving files from one directory to another.
+This program automates file management by effortlessly moving files from one directory to another, as well as searching through a directory locating specific extensions
 
 ### Here is a breakdown of the code:
 ```
